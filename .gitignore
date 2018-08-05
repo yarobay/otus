@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/otus.iml
+.idea/workspace.xml
+lesson_1/utils/__pycache__/
